@@ -45,9 +45,6 @@ El objetivo principal es predecir la tarifa diaria (`price`) de las publicacione
 
 ---
 
-## 🚀 Cómo Ejecutar el Proyecto
+## Dataset
+https://data.insideairbnb.com/france/ile-de-france/paris/2026-06-16/data/listings.csv.gz
 
-1. Clona este repositorio en tu máquina local:
-   ```bash
-   git clone [https://github.com/miguel-cct/prediccion-precios-airbnb.git](https://github.com/miguel-cct/prediccion-precios-airbnb.git)
-   cd prediccion-precios-airbnb
